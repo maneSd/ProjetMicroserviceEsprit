@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="$MODULE_DIR$/backend/api-gateway/pom.xml" external.system.module.type="SINGLE_MODULE" external.system.module.version="223-2" org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+    <output url="file://$MODULE_DIR$/backend/api-gateway/target/classes" />
+    <output-test url="file://$MODULE_DIR$/backend/api-gateway/target/test-classes" />
+    <content url="file://$MODULE_DIR$/backend/api-gateway">
+      <sourceFolder url="file://$MODULE_DIR$/backend/api-gateway/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/backend/api-gateway/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/backend/api-gateway/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/backend/api-gateway/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/api-gateway/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="d58e8221-996b-49c6-92a5-0ee7df98f389" />
+  </component>
+</module>
