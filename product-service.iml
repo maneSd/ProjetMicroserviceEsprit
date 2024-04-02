@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module version="4">
+<module external.linked.project.id="$MODULE_DIR$/backend/product-service/pom.xml" external.system.module.type="SINGLE_MODULE" external.system.module.version="223-2" org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+    <output url="file://$MODULE_DIR$/backend/product-service/target/classes" />
+    <output-test url="file://$MODULE_DIR$/backend/product-service/target/test-classes" />
+    <content url="file://$MODULE_DIR$/backend/product-service">
+      <sourceFolder url="file://$MODULE_DIR$/backend/product-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/backend/product-service/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/backend/product-service/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/backend/product-service/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/product-service/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
   <component name="SonarLintModuleSettings">
-    <option name="uniqueId" value="2510fc41-7cbe-4e7e-95ad-067479e1504e" />
+    <option name="uniqueId" value="5823b8de-35f4-4f00-a0bc-2b7744bc1263" />
+
   </component>
 </module>

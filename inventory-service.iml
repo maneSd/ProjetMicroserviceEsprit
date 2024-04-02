@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module version="4">
+<module external.linked.project.id="$MODULE_DIR$/backend/inventory-service/pom.xml" external.system.module.type="SINGLE_MODULE" external.system.module.version="223-2" org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+    <output url="file://$MODULE_DIR$/backend/inventory-service/target/classes" />
+    <output-test url="file://$MODULE_DIR$/backend/inventory-service/target/test-classes" />
+    <content url="file://$MODULE_DIR$/backend/inventory-service">
+      <sourceFolder url="file://$MODULE_DIR$/backend/inventory-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/backend/inventory-service/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/backend/inventory-service/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/backend/inventory-service/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/inventory-service/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
   <component name="SonarLintModuleSettings">
-    <option name="uniqueId" value="e5a24e58-faaf-4ea6-9472-0ef84bf98594" />
+    <option name="uniqueId" value="c0f1b6f7-ff60-430e-85c0-d3383aa02f1e" />
   </component>
 </module>
