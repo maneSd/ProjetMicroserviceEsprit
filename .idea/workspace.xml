@@ -4,11 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c96c593c-ee69-4cd3-93b0-a7299c332ab9" name="Changes" comment="" />
+    <list default="true" id="c96c593c-ee69-4cd3-93b0-a7299c332ab9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/inventory-service/src/main/java/tn/esprit/serviceinventory/controller/InventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/inventory-service/src/main/java/tn/esprit/serviceinventory/controller/InventoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/inventory-service/src/main/java/tn/esprit/serviceinventory/repository/InventoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/inventory-service/src/main/java/tn/esprit/serviceinventory/repository/InventoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/inventory-service/src/main/java/tn/esprit/serviceinventory/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/inventory-service/src/main/java/tn/esprit/serviceinventory/service/InventoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/inventory-service/src/main/java/tn/esprit/serviceinventory/service/impl/InventoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/inventory-service/src/main/java/tn/esprit/serviceinventory/service/impl/InventoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/order-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/order-service/src/main/java/tn/esprit/serviceorder/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/order-service/src/main/java/tn/esprit/serviceorder/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/order-service/src/main/java/tn/esprit/serviceorder/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/order-service/src/main/java/tn/esprit/serviceorder/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/order-service/src/main/java/tn/esprit/serviceorder/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/order-service/src/main/java/tn/esprit/serviceorder/service/impl/OrderServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -31,20 +48,20 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "corretto-17",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\esprit\MicroservicesEsprit\ProjetMicroserviceEsprit\backend" />
@@ -84,6 +101,7 @@
       <updated>1712049816006</updated>
       <workItem from="1712049818004" duration="731000" />
       <workItem from="1712051027872" duration="4004000" />
+      <workItem from="1712394952821" duration="2315000" />
     </task>
     <servers />
   </component>

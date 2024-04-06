@@ -4,6 +4,6 @@ import tn.esprit.serviceorder.dto.OrderRequest;
 
 
 public interface OrderService {
-     void placeOrder(OrderRequest orderRequest) ;
+     String placeOrder(OrderRequest orderRequest) ;
 
 }
