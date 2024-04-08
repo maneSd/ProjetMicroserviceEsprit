@@ -1,0 +1,11 @@
+D:\esprit\MicroservicesEsprit\ProjetMicroserviceEsprit\ProjetMicroserviceEsprit\backend\order-service\src\main\java\tn\esprit\serviceorder\dto\InventoryResponse.java
+D:\esprit\MicroservicesEsprit\ProjetMicroserviceEsprit\ProjetMicroserviceEsprit\backend\order-service\src\main\java\tn\esprit\OrderServiceApplication.java
+D:\esprit\MicroservicesEsprit\ProjetMicroserviceEsprit\ProjetMicroserviceEsprit\backend\order-service\src\main\java\tn\esprit\serviceorder\service\OrderService.java
+D:\esprit\MicroservicesEsprit\ProjetMicroserviceEsprit\ProjetMicroserviceEsprit\backend\order-service\src\main\java\tn\esprit\serviceorder\dto\OrderLineItemsDto.java
+D:\esprit\MicroservicesEsprit\ProjetMicroserviceEsprit\ProjetMicroserviceEsprit\backend\order-service\src\main\java\tn\esprit\serviceorder\service\impl\OrderServiceImpl.java
+D:\esprit\MicroservicesEsprit\ProjetMicroserviceEsprit\ProjetMicroserviceEsprit\backend\order-service\src\main\java\tn\esprit\serviceorder\controller\OrderController.java
+D:\esprit\MicroservicesEsprit\ProjetMicroserviceEsprit\ProjetMicroserviceEsprit\backend\order-service\src\main\java\tn\esprit\serviceorder\reposiroty\OrderRepository.java
+D:\esprit\MicroservicesEsprit\ProjetMicroserviceEsprit\ProjetMicroserviceEsprit\backend\order-service\src\main\java\tn\esprit\serviceorder\dto\OrderRequest.java
+D:\esprit\MicroservicesEsprit\ProjetMicroserviceEsprit\ProjetMicroserviceEsprit\backend\order-service\src\main\java\tn\esprit\serviceorder\entity\Order.java
+D:\esprit\MicroservicesEsprit\ProjetMicroserviceEsprit\ProjetMicroserviceEsprit\backend\order-service\src\main\java\tn\esprit\serviceorder\config\WebClientConfig.java
+D:\esprit\MicroservicesEsprit\ProjetMicroserviceEsprit\ProjetMicroserviceEsprit\backend\order-service\src\main\java\tn\esprit\serviceorder\entity\OrderLineItems.java

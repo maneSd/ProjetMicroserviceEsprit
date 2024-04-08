@@ -1,0 +1,12 @@
+tn\esprit\serviceorder\entity\OrderLineItems.class
+tn\esprit\serviceorder\controller\OrderController.class
+tn\esprit\serviceorder\dto\InventoryResponse.class
+tn\esprit\serviceorder\reposiroty\OrderRepository.class
+tn\esprit\serviceorder\dto\InventoryResponse$InventoryResponseBuilder.class
+tn\esprit\serviceorder\dto\OrderRequest.class
+tn\esprit\serviceorder\service\impl\OrderServiceImpl.class
+tn\esprit\serviceorder\config\WebClientConfig.class
+tn\esprit\serviceorder\dto\OrderLineItemsDto.class
+tn\esprit\serviceorder\entity\Order.class
+tn\esprit\OrderServiceApplication.class
+tn\esprit\serviceorder\service\OrderService.class

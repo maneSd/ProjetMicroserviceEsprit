@@ -1,6 +1,6 @@
+tn\esprit\ProductServiceApplication.class
 tn\esprit\serviceproduct\controller\ProductController.class
 tn\esprit\serviceproduct\repository\ProductRepository.class
-tn\esprit\Main.class
 tn\esprit\serviceproduct\dto\ProductRequest$ProductRequestBuilder.class
 tn\esprit\serviceproduct\dto\ProductRequest.class
 tn\esprit\serviceproduct\service\impl\ProductServiceImpl.class
