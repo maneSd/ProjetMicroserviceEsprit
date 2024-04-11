@@ -1,8 +1,0 @@
-tn\esprit\serviceinventory\repository\InventoryRepository.class
-tn\esprit\serviceinventory\controller\InventoryController.class
-tn\esprit\serviceinventory\service\impl\InventoryServiceImpl.class
-tn\esprit\serviceinventory\service\InventoryService.class
-tn\esprit\InventoryServiceApplication.class
-tn\esprit\serviceinventory\dto\InventoryResponse$InventoryResponseBuilder.class
-tn\esprit\serviceinventory\entity\Inventory.class
-tn\esprit\serviceinventory\dto\InventoryResponse.class
